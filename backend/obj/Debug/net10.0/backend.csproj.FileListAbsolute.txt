@@ -1,0 +1,14 @@
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\bin\Debug\net10.0\backend.exe
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\bin\Debug\net10.0\backend.deps.json
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\bin\Debug\net10.0\backend.dll
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\bin\Debug\net10.0\backend.pdb
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.dll
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\refint\backend.dll
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.pdb
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+C:\Users\uib47086\Documents\GCPCentralGit\unit-test-runnners\backend\obj\Debug\net10.0\ref\backend.dll
