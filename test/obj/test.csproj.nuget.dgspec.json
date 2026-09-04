@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\test\\test.csproj": {}
+    "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\backend.csproj": {
+    "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\backend.csproj",
+        "projectPath": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\uib47086\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\obj\\",
+        "outputPath": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -345,14 +345,14 @@
         }
       }
     },
-    "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\test\\test.csproj": {
+    "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\test\\test.csproj",
+        "projectPath": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\test\\test.csproj",
         "packagesPath": "C:\\Users\\uib47086\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\test\\obj\\",
+        "outputPath": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -374,8 +374,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\backend.csproj": {
-                "projectPath": "C:\\Users\\uib47086\\Documents\\GCPCentralGit\\unit-test-runnners\\backend\\backend.csproj"
+              "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\backend.csproj": {
+                "projectPath": "C:\\Users\\uib47086\\Documents\\repos\\running-unit-test\\backend\\backend.csproj"
               }
             }
           }
@@ -400,6 +400,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.14.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "xunit": {
               "target": "Package",

@@ -13,4 +13,29 @@ public class UsersTest
         Assert.Equal("Test User", result);
     }
 
+	[Fact]
+	public async Task GetUser_InvalidId_ThrowsException()
+	{
+		var users = new User();
+
+		await Assert.ThrowsAsync<ArgumentException>(
+			() => users.GetUserNameAsync(0));
+	}
+
+
+    [Theory]
+    [InlineData(18, true)]
+    [InlineData(20, true)]
+    [InlineData(17, false)]
+    [InlineData(0, false)]
+    public void IsValidAge_ReturnsExpectedResult(
+        int age,
+        bool expected)
+    {
+        var users = new User();
+
+        var result = users.IsValidAge(age);
+
+        Assert.Equal(expected, result);
+    }
 }
