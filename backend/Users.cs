@@ -7,8 +7,7 @@ public class User
 		
 		if (userId <= 0)
 		{
-			throw new ArgumentException(
-				"Invalid user id");
+			throw new ArgumentException("Invalid user id");
 		}
 			return "Test User";
     }

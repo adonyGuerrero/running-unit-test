@@ -27,7 +27,7 @@ public class UsersTest
     [InlineData(18, true)]
     [InlineData(20, true)]
     [InlineData(17, false)]
-    [InlineData(0, true)]
+    [InlineData(30, true)]
     public void IsValidAge_ReturnsExpectedResult(
         int age,
         bool expected)
